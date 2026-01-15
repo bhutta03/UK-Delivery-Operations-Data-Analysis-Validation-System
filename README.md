@@ -5,6 +5,11 @@ This project is a **client-ready data analysis solution** designed for a UK-base
 It focuses on **accurate data collection, strong data validation, and analytics readiness**, built using Microsoft Excel and designed to scale into **Power BI dashboards**.
 
 The system ensures clean, consistent, and reliable operational and financial data for business decision-making.
+---
+<p align="center">
+  <img src="UK Delivery Operations – Data Analysis Project.png" width="800"/>
+</p>
+
 
 ---
 
