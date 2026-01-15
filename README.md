@@ -9,7 +9,7 @@ The system ensures clean, consistent, and reliable operational and financial dat
 ---
 
 <p align="center">
-  <img src="UK Delivery Operations – Data Analysis Project.png" width="800"/>
+  <img src="UK Delivery Operations – Data Analysis Project.png" width="350"/>
 </p>
 
 
